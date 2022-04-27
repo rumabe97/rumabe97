@@ -42,4 +42,4 @@ Everyday I look forward to getting better at my hobby.
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rumabe97&langs_count=5&theme=tokyonight)]()
 
 ### Contact 💬
-[![Linkedin Badge](https://img.shields.io/badge/-Adrián_Moral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruben-martinez-bermejo)](https://www.linkedin.com/in/ruben-martinez-bermejo)
+[![Linkedin Badge](https://img.shields.io/badge/-Ruben_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruben-martinez-bermejo)](https://www.linkedin.com/in/ruben-martinez-bermejo)
